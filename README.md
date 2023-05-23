@@ -3,8 +3,6 @@
    <h2 color="blue" align="center">Full Stack Web Developer with specialization in MERN stack.</h2>
    <p color="blue" align="center">from <b>Etawah, Uttar Pradesh, India</b></p>
     <div id="badges" align="center">
-   
-    
      <a href="https://www.linkedin.com/in/shivani-yadav-93909a1a0/">
       <img height="27.5px" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
