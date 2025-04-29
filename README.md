@@ -1,44 +1,88 @@
+<h1 align="center">👋 Hi, I'm Shivani Yadav</h1>
+<h3 align="center">🚀 Aspiring Java Developer | Spring Boot | REST APIs | Problem Solver</h3>
 
-# 💻 Shivani Yadav | Java Developer | Spring Boot | REST APIs | DSA
-
-Hi there! I'm Shivani, a passionate Java Developer focused on backend development with real-world experience in building scalable and efficient applications using **Java, Spring Boot, MySQL**, and **REST APIs**. I’m also skilled in **Data Structures & Algorithms**, which I regularly use to solve complex coding problems.
-
----
-
-## 🚀 Tech Stack
-
-- **Languages:** Java, C, C++
-- **Backend:** Spring Boot, REST API, JDBC
-- **Frontend:** HTML, CSS
-- **Database:** MySQL, SQL
-- **Tools:** Git, GitHub, Postman, Eclipse, VS Code
-- **Other:** OOPs, DSA, MVC Architecture
-
----
-
-## 🔧 Projects
-
-- ✈️ **Airline Reservation System** – Java Swing UI + MySQL + JDBC
-- 📁 **CRUD API** – REST API with Spring Boot, JPA, MySQL
-- 📝 **Text Editor** – GUI App using Java Swing
-- 🐍 **Snake Game** – Fun game with Java Swing components
+<p align="center">
+  <a href="https://linkedin.com/in/shivaniyadav707" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shiviyadav707@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/shiviyadav707">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/shiviyadav707/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/shiviyadav707/">
+    <img src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 What I’m Working On
+### 💡 About Me
 
-- Enhancing my DSA problem-solving skills (500+ problems solved)
-- Deepening my knowledge in Spring Security and advanced backend design
-- Contributing to open-source Java projects
-
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: shiviyadav707@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/shivaniyadav707)  
-- 💻 [GitHub](https://github.com/shiviyadav707)
+- 💻 Passionate Java Developer with a love for building real-world backend systems.
+- 🧠 Strong foundation in **Core Java**, **Spring Boot**, **REST APIs**, and **Data Structures & Algorithms**.
+- 🚀 Built projects like CRUD API, Airline Reservation System, and a Text Editor using Java Swing.
+- 🎯 Quick learner, problem solver, and detail-oriented coder always up for new challenges.
+- 👩‍💻 Completed Full Stack Web Development training at **AccioJob**.
 
 ---
 
-🌱 *Eager to learn. Ready to build. Open to opportunities!*
+### 🛠️ Tech Stack
+
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Backend & DB:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-003545?style=flat)
+
+**Tools & Technologies:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+
+---
+
+### 📚 Projects
+
+| Project | Description |
+|--------|-------------|
+| **CRUD API** | REST API built using Spring Boot, JPA & MySQL with full CRUD functionality |
+| **Airline Reservation System** | Java Swing GUI connected to MySQL via JDBC for booking and managing flights |
+| **Text Editor** | Rich desktop text editor with file/edit menus and Swing-based GUI |
+| **Snake Game** | Classic arcade game built using Java and Swing components |
+
+---
+
+### 💻 Coding Profiles
+
+- 🔸 [LeetCode](https://leetcode.com/u/shiviyadav707/)
+- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/user/shiviyadav707/)
+
+---
+
+### 📈 What I'm Focusing On
+
+- ✅ Solving 500+ DSA problems to sharpen logic and efficiency  
+- 🛠️ Exploring Spring Security & advanced backend architecture  
+- 🤝 Open to internship and entry-level Java developer roles
+
+---
+
+### 📬 Let's Connect!
+
+📧 Email: **shiviyadav707@gmail.com**  
+🔗 LinkedIn: [shivaniyadav707](https://linkedin.com/in/shivaniyadav707)  
+💻 GitHub: [shiviyadav707](https://github.com/shiviyadav707)
+
+---
+
+⭐ *Thank you for visiting! Let’s build something amazing together.*
