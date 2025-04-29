@@ -49,16 +49,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 
----
-
-### 📚 Projects
-
-| Project | Description |
-|--------|-------------|
-| **CRUD API** | REST API built using Spring Boot, JPA & MySQL with full CRUD functionality |
-| **Airline Reservation System** | Java Swing GUI connected to MySQL via JDBC for booking and managing flights |
-| **Text Editor** | Rich desktop text editor with file/edit menus and Swing-based GUI |
-| **Snake Game** | Classic arcade game built using Java and Swing components |
 
 ---
 
