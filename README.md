@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Java Developer | Spring Boot | REST APIs | Problem Solver</h3>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/shivaniyadav707](https://www.linkedin.com/in/shivani-yadav-93909a1a0/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shivani-yadav-93909a1a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:shiviyadav707@gmail.com">
