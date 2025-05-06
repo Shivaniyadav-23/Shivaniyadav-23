@@ -70,7 +70,7 @@
 ### 📬 Let's Connect!
 
 📧 Email: **shiviyadav707@gmail.com**  
-🔗 LinkedIn: [shivaniyadav707](https://linkedin.com/in/shivaniyadav707)  
+🔗 LinkedIn: [shivaniyadav707](https://www.linkedin.com/in/shivani-yadav-93909a1a0/)  
 💻 GitHub: [shiviyadav707](https://github.com/shiviyadav707)
 
 ---
