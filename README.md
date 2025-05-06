@@ -2,13 +2,13 @@
 <h3 align="center">🚀 Aspiring Java Developer | Spring Boot | REST APIs | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivaniyadav707" target="_blank">
+  <a href="[https://linkedin.com/in/shivaniyadav707](https://www.linkedin.com/in/shivani-yadav-93909a1a0/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:shiviyadav707@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/shiviyadav707">
+  <a href="https://github.com/Shivaniyadav-23">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/shiviyadav707/">
@@ -71,7 +71,7 @@
 
 📧 Email: **shiviyadav707@gmail.com**  
 🔗 LinkedIn: [shivaniyadav707](https://www.linkedin.com/in/shivani-yadav-93909a1a0/)  
-💻 GitHub: [shiviyadav707](https://github.com/shiviyadav707)
+💻 GitHub: [shiviyadav707](https://github.com/Shivaniyadav-23)
 
 ---
 
